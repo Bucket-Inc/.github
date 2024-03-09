@@ -18,7 +18,7 @@
 - HTML
 - CSS
 - PHP
-- MySQL
+- SQL
 
 ### We are learning:
 - Go
