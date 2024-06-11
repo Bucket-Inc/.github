@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## Bucket is an organization and we love open-source !
+## Bucket is an organization focused on tools that help you! We love open-source software & tools!
 
 ### Our main languages are:
 - Python
@@ -24,4 +24,4 @@
 - Go
 - C
 
-#### Oh and also we love baguette !
+#### Oh and also we love baguettes 🥖!
