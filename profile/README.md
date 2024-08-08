@@ -13,15 +13,9 @@
 
 ## Bucket is an organization focused on tools that help you! We love open-source software & tools!
 
-### Our main languages are:
-- Python
-- HTML
-- CSS
-- PHP
-- SQL
-
-### We are learning:
-- Go
-- C
+### Our main stuff is:
+- CLI app
+- Backend
+- API
 
 #### Oh and also we love baguettes 🥖!
